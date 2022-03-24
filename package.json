@@ -1,0 +1,36 @@
+{
+  "name": "cfc-jag",
+  "version": "1.0.0",
+  "description": "proyecto cli para generar ficheros de manera facil",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagoraxm/ficheros-cli.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ficheros",
+    "cli",
+    "ts",
+    "javascript",
+    "kt",
+    "java"
+  ],
+  "author": "JAG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jagoraxm/ficheros-cli/issues"
+  },
+  "homepage": "https://github.com/jagoraxm/ficheros-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.1",
+    "shelljs": "^0.8.5"
+  },
+  "bin": "index.js"
+}
